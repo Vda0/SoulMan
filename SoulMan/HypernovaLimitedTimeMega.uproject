@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{831DBF19-4F26-E892-50C5-638562B521D5}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "WaterExtras",
+			"Enabled": true
+		}
+	]
+}
